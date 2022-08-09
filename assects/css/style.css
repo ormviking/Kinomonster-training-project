@@ -112,7 +112,7 @@ ul.menu li a {
 	font:  normal 100% "trebuchet ms", sans-serif;
 	display: block;
 	height: 20px;
-	padding: 6px 35 px 5px 28px;
+	padding: 6px 35px 5px 28px;
 	color: #fff;
 	text-decoration: none;
 }
@@ -274,6 +274,36 @@ margin-bottom: 5%;
 
 .send_contact textarea {
   width: 516px;
+}
+
+.info-film {
+	margin-bottom: 5%;
+	background-color: #f9f9f9;
+	padding: 5%;
+	height: 270px;
+}
+
+.info-film img {
+	float: left;
+	margin-right: 2%;
+	border-radius: 5px;
+	border: solid 5px #dad7d5;
+	width: 25%;
+}
+
+.button {
+	background-color: #7268ad;
+	padding: 2%;
+	color: white;
+	border-radius: 5px;
+	float: right;
+	margin-top: 5%;
+	clear: both;
+	font-size: 0.8em;	
+}
+
+.button a {
+	color: white;
 }
 
 .footer {
